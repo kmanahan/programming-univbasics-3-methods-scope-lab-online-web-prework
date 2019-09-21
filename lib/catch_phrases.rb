@@ -15,8 +15,4 @@ end
 
 def any_phrase(argument)
   phrase = "Do A Barrel Roll!"
-  puts #{"ok"}
-  return any_phrase(argument)
-end
-
-return any_phrase()
+  
