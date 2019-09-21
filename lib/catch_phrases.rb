@@ -18,4 +18,4 @@ def any_phrase(argument= "ok")
   return any_phrase "#{argument}"
 end
 
-any_phrase("ok")
+any_phrase
