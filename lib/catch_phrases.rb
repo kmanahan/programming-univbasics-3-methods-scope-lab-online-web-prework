@@ -13,9 +13,6 @@ def link
   puts phrase
 end
 
-def any_phrase(argument= "ok")
-  puts phrase = "Do A Barrel Roll!"
-  return any_phrase
+def any_phrase(phrase = "Do A Barrel Roll!")
+  puts any_phrase
 end
-
-any_phrase
